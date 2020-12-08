@@ -1,0 +1,55 @@
+CACHE MANIFEST
+# version - 10.4
+
+
+CACHE:
+
+# CSS
+
+css-normalize.css
+css-add2home.css
+index.css
+
+# IMAGES
+
+graphics/icon/57.png
+graphics/icon/72.png
+graphics/icon/114.png
+graphics/icon/76.png
+graphics/icon/144.png
+graphics/icon/152.png
+graphics/icon/180.png
+graphics/icon/256.png
+graphics/downward.png
+graphics/lunge.png
+graphics/savasana.png
+graphics/top_pose.png
+graphics/warrior.png
+graphics/modal/down.png
+graphics/modal/highlunge.png
+graphics/modal/lowlunge.png
+graphics/modal/reverse.png
+graphics/modal/warrior1.png
+graphics/modal/warrior2.png
+graphics/modal/apartwarrior.jpg
+graphics/modal/armwarrior.jpg
+graphics/modal/bendwarrior.jpg
+graphics/modal/kickfront_lunge.jpg
+graphics/modal/table.png
+graphics/modal/tablepose2.png
+graphics/modal/turnwarrior.jpg
+
+
+# HTML FILES
+
+index.html
+
+# JAVASCRIPT - SPECIFIC ORDER
+
+js-refresh-manifest.js
+js-add2home.js
+js-main.js
+
+## Any resources not listed above will require the user to be online.
+NETWORK:
+*
